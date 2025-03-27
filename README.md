@@ -102,31 +102,6 @@ This text to website generator has been developed as part of Kriti Problem State
 
 ---
 
-## env files
-
-- **Frontend**:
-  **REACT_APP_BACKEND_URL=http://localhost:8000
-  REACT_APP_NETLIFY_TOKEN=nfp_VYi25EmU6uvHj5vhdoyNj5ENkgBJRN27918c
-  REACT_APP_SITE_ID=fb0cde6f-d0a6-4196-93ce-b02d0592408f
-  REACT_APP_CLOUDINARY_CLOUD_NAME=degzqqxkz
-  REACT_APP_CLOUDINARY_UPLOAD_PRESET=ml_default
-  REACT_APP_FIREBASE_API_KEY=AIzaSyCU8nfXb-eG3Tf6D7HQnZUQCyVDIiqALUU
-  REACT_APP_FIREBASE_AUTH_DOMAIN=craftly-3ad41.firebaseapp.com
-  REACT_APP_FIREBASE_PROJECT_ID=craftly-3ad41
-  REACT_APP_FIREBASE_STORAGE_BUCKET=craftly-3ad41.firebasestorage.app
-  REACT_APP_FIREBASE_MESSAGING_SENDER_ID=963042915640
-  REACT_APP_FIREBASE_APP_ID=1:963042915640:web:0f94cf7df88503cee9fdcd**
-- **Backend**
-  **DB_URL="mongodb+srv://barakKriti:jaiBarak@cluster0.cfzt0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-  NODE_ENV="development"
-  OPENAI_API_KEY="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"
-  REPROMPT_API_KEY="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"
-  ORG="org-QHZa146GeAlgSC9UmmGEviET"
-  PORT=8000
-  JWT_SECRET="sdjflskdfjwsdfsfjdslfsjflsdjkf"**
-
----
-
 ## Tech Stack
 
 - **Frontend**
